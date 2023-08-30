@@ -1,5 +1,9 @@
-# Getting Started with Create React App
+# How it looks and how it works
 
+![firstone](https://github.com/Sheggy1/React-App-with-post-and-search-functionalities/assets/43640476/e3fac2c8-c2d8-46aa-988e-ae5cd28c4cdd)
+![secondone](https://github.com/Sheggy1/React-App-with-post-and-search-functionalities/assets/43640476/2a056dd3-c828-4ec2-93de-7d5b99d42cf6)
+
+Getting Started with Create React App
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
